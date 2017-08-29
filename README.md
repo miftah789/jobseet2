@@ -1,7 +1,10 @@
 # jobsheet2
+<p>
+<br>Nama : Miftahul Jannah 
+<br>Kelas : XI RPL 6 
+<br>No.Absen : 18 
+<br>Sekolah : SMK TELKOM MALANG 
+<br>NIS : 4749/1466.070
+</p>
 
-##Nama : Miftahul Jannah 
-##Kelas : XI RPL 6 
-##No.Absen : 18 
-##Sekolah : SMK TELKOM MALANG 
-##NIS : 4749/1466.070
+<h1>SS</h1>
