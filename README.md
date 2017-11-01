@@ -7,5 +7,3 @@
 <br>NIS : 4749/1466.070
 <br>APK : https://drive.google.com/open?id=0B8XMCUSgihwuMmdzUGpuTHpRV1k
 </p>
-
-<h1>SS</h1>
